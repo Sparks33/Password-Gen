@@ -1,6 +1,4 @@
-# Password-Gen
-
-__**Password Generator with User Interaction**__
+# Password Generator with User Interaction
 
 The "Password Generator with User Interaction" is a Python program designed to generate secure and randomized passwords while allowing users to control the process. In an era where strong passwords are essential for digital security, this program offers an intuitive and flexible solution to create passwords of varying lengths and complexities.
 
