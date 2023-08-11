@@ -24,7 +24,7 @@ The "Password Generator with User Interaction" is a Python program designed to g
 **Advantages:**
 
 - **Enhanced Security:** The generated passwords are highly secure due to their randomized composition and inclusion of various character types.
-Customization: Users have the freedom to specify the password length according to their needs.
+- **Customization:** Users have the freedom to specify the password length according to their needs.
 - **Ease of Use:** The user-friendly interface simplifies the password generation process.
 - **Adaptability:** The program can be easily modified or integrated into other projects.
   
